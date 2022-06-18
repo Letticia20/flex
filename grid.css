@@ -76,3 +76,8 @@ main div {
   background-color: bisque;
   grid-area: e;
 }
+@media (max-width:760px) {
+    main {
+        padding: 0;
+    }
+}
